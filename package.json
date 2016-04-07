@@ -2,7 +2,7 @@
   "name": "@f/string-is-boolean",
   "description": "Check if string looks like a boolean.",
   "repository": "git://github.com/micro-js/string-is-boolean.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
